@@ -59,9 +59,14 @@ Cyber-profiling is the process of collecting data from individuals and groups to
 4. ***Automatic clustering of it alerts*** </br>
 Large enterprise it infrastructure technology components such as network, storage, or database generate large volumes of alert messages. because alert messages potentially point to operational issues, they must be manually screened for prioritization for downstream processes. clustering of data can provide insight into categories of alerts and mean time to repair, and help in failure predictions.
 
-## Conclusion
+## ***Conclusion***
 Using the Algorithm we can solve many of the real world use cases like for this for more security purpose, analysis, business needs, verifications, etc.
 
 ## ***Thankyou For Reading***
 
 Any query and suggestion are always welcome- [Gaurav Pagare](https://www.linkedin.com/in/gaurav-pagare-8b721a193/)
+
+### Refrences:
+1. [link1](https://dzone.com/articles/10-interesting-use-cases-for-the-k-means-algorithm)
+
+2. [link2](https://www.ibm.com/cloud/learn/unsupervised-learning)
