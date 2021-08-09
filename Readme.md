@@ -43,16 +43,16 @@ In the picture above we can see that as we add more clusters after 3 it doesn't 
 
 > #### Now Lets Study the real world use cases of K-means Cluster
 
-1. ***Identifying crime localities***
+1. ***Identifying crime localities*** </br>
 With data related to crimes available in specific localities in a city, the category of crime, the area of the crime, and the association between the two can give quality insight into crime-prone areas within a city or a locality.
 
-2. ***Insurance fraud detection***
+2. ***Insurance fraud detection*** </br>
 Machine learning has a critical role to play in fraud detection and has numerous applications in automobile, healthcare, and insurance fraud detection. utilizing past historical data on fraudulent claims, it is possible to isolate new claims based on its proximity to clusters that indicate fraudulent patterns. since insurance fraud can potentially have a multi-million dollar impact on a company, the ability to detect frauds is crucial.
 
-3. ***Cyber-profiling criminals***
+3. ***Cyber-profiling criminals*** </br>
 Cyber-profiling is the process of collecting data from individuals and groups to identify significant co-relations. the idea of cyber profiling is derived from criminal profiles, which provide information on the investigation division to classify the types of criminals who were at the crime scene.
 
-4. ***Automatic clustering of it alerts***
+4. ***Automatic clustering of it alerts*** </br>
 Large enterprise it infrastructure technology components such as network, storage, or database generate large volumes of alert messages. because alert messages potentially point to operational issues, they must be manually screened for prioritization for downstream processes. clustering of data can provide insight into categories of alerts and mean time to repair, and help in failure predictions.
 
 ## Conclusion
