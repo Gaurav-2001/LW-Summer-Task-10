@@ -43,6 +43,10 @@ In the picture above we can see that as we add more clusters after 3 it doesn't 
 
 > #### Now Lets Study the real world use cases of K-means Cluster
 
+<p align="center">
+<img src="./pictures/4.png"/>
+</p>
+
 1. ***Identifying crime localities*** </br>
 With data related to crimes available in specific localities in a city, the category of crime, the area of the crime, and the association between the two can give quality insight into crime-prone areas within a city or a locality.
 
